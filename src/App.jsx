@@ -13,7 +13,7 @@ import Track from "./pages/Track";
 import Manage from "./pages/Manage";
 import { useContext } from "react";
 import Contact from "./pages/Contact";
-import SignUp from "./pages/Signup";
+import SignUp from "./pages/SignUp";
 
 
 function AppContent() {
